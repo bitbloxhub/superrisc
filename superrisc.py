@@ -26,4 +26,4 @@ def runcode(char):
 while cinst in range(0, len(prg)):
 	runcode(prg[cinst])
 
-print(mem)
+print("".join([chr(x) for x in mem]))
