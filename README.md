@@ -13,3 +13,4 @@ the opcodes (none of them taking arguments) (the ascii value is the binary opcod
 * `-`: subtracts 1 to the memory location currently addressed
 * `C`: if the value of the current address is not 0, exectute the next operation, otherwise skip
 
+a sample program is here [hello.srp](hello.srp)
